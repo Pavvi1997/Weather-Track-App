@@ -1,0 +1,13 @@
+.Box {
+  display: block;
+  border:1px solid gray;
+  background-color: white;
+  margin: 100px;
+  width: 600px;
+  height: auto;
+  padding: 10px;
+}
+
+.p {
+  margin-left: 200px;
+}
